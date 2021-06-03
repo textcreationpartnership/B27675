@@ -1,0 +1,700 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Private Christians non vltra, or, A plea for the lay-man's interpreting the scriptures written by Philolaoclerus.</title>
+            <author>Osborne, Francis, 1593-1659.</author>
+         </titleStmt>
+         <extent>Approx. 84KB of XML-encoded text transcribed from 16 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B27675</idno><idno type="EEBO-CITATION">12535389</idno>
+  <idno type="VID">199749</idno>
+  <idno type="EEBO-PROQUEST">2248579575</idno>
+  
+            <idno type="STC">Wing O521</idno>
+            <idno type="OCLC">12535389</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B27675)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 199749)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 946:11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Private Christians non vltra, or, A plea for the lay-man's interpreting the scriptures written by Philolaoclerus.</title>
+                  <author>Osborne, Francis, 1593-1659.</author>
+               </titleStmt>
+               <extent>[2], 28 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by H. Hall ... for Tho. Robinson,</publisher>
+                  <pubPlace>Oxford :</pubPlace>
+                  <date>1656.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Union Theological Seminary Library, New York.</note>
+                  <note>Philolaoclerus is a pseudonym for Francis Osborne. cf. NUC pre-1956.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="uniform_title">Bible --  Criticism, interpretation, etc.</term>
+               <term type="topical_term">Freedom of religion --  Great Britain.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-10 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-05 </date>
+            <label>John Latta </label>Sampled and proofread </change>
+         <change>
+            <date>2014-05 </date>
+            <label>John Latta</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <div type="to_the_reader">
+            <pb facs="tcp:199749:1"/>
+            <opener>
+               <salute>READER.</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>His little Treatise, (tending towards the vindication of a considerable priviledge of the Saints of God, from the use and ex<g ref="char:EOLhyphen"/>ercise whereof they have in former dayes been restrained, under severe penalties, and pressing them to the performance of a morall duty, which some have indeavoured to discharge them of, by an attempt for it's enclosure, unto persons peculiarly appointed to take care thereof,) being requested thereunto, I make bold to recommend unto thy serious perusall. The e<g ref="char:EOLhyphen"/>vidence which the Author (whom I know not) hath given herein of his piety, modesty, and learning, will I suppose find a regard even with those who are other<g ref="char:EOLhyphen"/>wise minded, as to that which he pleadeth for. I shall only say, that as to the <hi>thesis</hi> it selfe by him maintai<g ref="char:EOLhyphen"/>ned, (though he build it not on those principles, which in Church affaires I owne as the mind of God, and proceed upon; nor extend the priviledge and duty therein asserted, to their just liberty and compasse, yet as to what he hath undertaken,) he hath laid such foundations, and given such evidence to his inferen<g ref="char:EOLhyphen"/>ces from them, that I hope the truth of it may thereby be cleared to some, whose concernment it is to owne it, before they come to give their account.</p>
+            <closer>
+               <signed>IOHN OWEN.</signed>
+            </closer>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:199749:1"/>
+            <p>The Private Christians NON VLTRA, OR, <hi>A PLEA For the</hi> LAY-MAN's <hi>Interpreting the SCRIPTVRES.</hi>
+            </p>
+            <p>Written by PHILOLAOCLERUS.</p>
+            <q>
+               <p>Despise not the day of small things.</p>
+            </q>
+            <q>
+               <p>Divinus etenim sermo, sicut mysteriis prudentes exercet, sic plerunque superficie simplices refovet; habet in publico, unde parvulos nutriat, servat in secreto, unde mentes sublimium in admiratione su<g ref="char:EOLhyphen"/>spendat; quasi quippe fluvius (ut ita dixerim) planus &amp; altus, in quo &amp; agnus ambulet, &amp; elephas natet.</p>
+               <bibl>Greg. epist. ad Leand. c. 4. praefat. in JOB.</bibl>
+            </q>
+            <p>
+               <hi>OXFORD,</hi> Printed by H. HALL, Printer to the UNIVERSITY, for THO. ROBINSON. 1656.</p>
+         </div>
+      </front>
+      <body>
+         <div type="treatise">
+            <pb facs="tcp:199749:2"/>
+            <pb n="1" facs="tcp:199749:2"/>
+            <head>That private Christians may privately meet weekly, upon some working day, to pray, read, and joyne together in the interpreting of Scriptures, for the building up of each other in knowledge and holynesse.</head>
+            <div n="1" type="chapter">
+               <head>CAP. 1. <hi>The opening of the Termes.</hi>
+               </head>
+               <p>
+                  <seg rend="decorInit">I</seg>N the Holy Scripture there is a difference made among those that belong to the Church of Christ,
+<note place="margin">
+                     <hi>Heb.</hi> 13.17.</note> whereof some are called to <hi>rule,</hi> others are called to <hi>submit.</hi>
+               </p>
+               <p>These rulers are men set apart by imposition of hands, they are men in office, commonly called Ministers; <hi>cle<g ref="char:EOLhyphen"/>rus in ecclesiâ,</hi> mentioned in the Scrip<g ref="char:EOLhyphen"/>ture under severall titles; when their holynesse is imply'd, they are said to be <hi>men of God;</hi> when their vigilancy, <hi>watchmen;</hi> when their courage, <hi>Souldiers;</hi> when their painfullnesse, <hi>harvest laborers;</hi> when their care over their flock, <hi>shepheards;</hi> when their wisedome, <hi>overseers;</hi> when their necessary use in preserving and informing men, <hi>the salt of the earth,</hi> and <hi>the light of the world.</hi>
+               </p>
+               <p>These that are to submit,
+<note place="margin">
+                     <hi>Act.</hi> 20.28. <hi>Heb.</hi> 13.7.</note> are said to be under the <hi>charge</hi> of others, others must <hi>account</hi> for them, they have their severall titles, sometimes cald <hi>hearers, flock, saints, virgins, Gods heritage; clerus ecclesia.</hi> These are <hi>private Christians,</hi> whereof.</p>
+               <p n="1">1. Some are learned in tongues and sciences, as were <hi>Grotius, Selden,</hi> and many others: who, by
+<note n="a" place="margin">
+                     <hi>Case of Consc. decad.</hi> 3. <hi>cas.</hi> 10. <hi>p.</hi> 348.</note>
+                  <hi>Bishop Hall,</hi> are allowed to in<g ref="char:EOLhyphen"/>terpret,
+<pb n="2" facs="tcp:199749:3"/>and admired for their works. If these men had been denyed their rights, they were able (as being of age) to have plea<g ref="char:EOLhyphen"/>ded for themselves.</p>
+               <p n="2">2. Others are not learned in the one or the other, but they are diligent in reading or hearing, a peculiar people, zealous of good workes, anointed with the spirit, taught of God, having the word of Christ dwelling in them richly, able to give an account of the hope that is in them, and that are not ashamed of the Gospell of Christ, because it is the power of God unto salvation. These <hi>private Christians</hi> are here meant</p>
+               <p>
+                  <hi>Privately meeting;</hi> this notes the place cheifely and not the num<g ref="char:EOLhyphen"/>ber of persons meeting.</p>
+               <div type="part">
+                  <head>Of Places.</head>
+                  <p n="1">1. Some are <hi>publicke:</hi> The Jewes had their <hi>Tabernacle</hi> and <hi>Temple,</hi> the Gentiles their <hi>delubra, Fana, &amp;c.</hi> the Christians their, <hi>Basilica, Ecclesia, Memoria</hi>
+                     <note n="a" place="margin">
+                        <hi>Memoria Martyrum ibi est Mediolanensium, Gervasii, &amp; Protasii.</hi> Au<g ref="char:EOLhyphen"/>gust. de civit. Dei. l. 22. c. 8.</note>, <hi>paroechiae, martyria,</hi> &amp;c. their Churches now; but whether only since the first three hundred yeares, as
+<note n="b" place="margin">Epist. Ignat. ad Magn: Ex<g ref="char:EOLhyphen"/>ercit. 2. c. 4. 1 Cor. 11.22.</note>
+                     <hi>Vedelius</hi> Contends, I shall not enquire.</p>
+                  <p n="2">2. Some are <hi>private,</hi> which the Apostle cals <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap> houses, so women, <hi>si quid discere volunt,</hi> if they will learne any thing, must aske their husbands at <hi>home.</hi>
+                  </p>
+                  <p>
+                     <hi>Weekly;</hi> (i.e.) if men so please, not that any necessity is intended.</p>
+                  <p>
+                     <hi>Ʋpon some working day;</hi> this speakes the time for the exercise.</p>
+                  <p>Of <hi>Time</hi> some is <hi>solemne</hi> and <hi>sacred:</hi> The <hi>Romanes</hi> had their <hi>dies festi</hi> and <hi>feriati,</hi> their holy dayes, and dayes for sacrifice; so under the Gospell the Lord hath <hi>his day,</hi> which by
+<note n="a" place="margin">Epist. ad Mag.</note>
+                     <hi>Ignatius</hi> as well as <hi>S. John</hi> is cald <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>, and by
+<note n="b" place="margin">Apolog. 2. pro Christ.</note>
+                     <hi>Justin Martyr</hi>
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>. <hi>The Lords day, Sunday.</hi> The day of publicke meeting.</p>
+                  <p>Some is <hi>common,</hi> given unto us by God, in which we are to doe all the worke we have to doe, this common time makes up our working dayes; it is expressed here to <hi>meete</hi> on a <hi>wor<g ref="char:EOLhyphen"/>king day</hi> and in a <hi>private place,</hi> that so Christians may be ready to give all possible respect unto the publick ordinance on the Lords day; For many times that which is lawfull in it self, becomes unlawfull through miscarriage. And here I will farther adde, that although it is to be found in the Acts of the Apostles, that the Christians continued in duty untill midnight, and also in
+<note n="c" place="margin">l. 10. Epist. 97.</note>
+                     <hi>Pliny,</hi> &amp;c. that they met <hi>ante lucem,</hi> before day, to sing Psalmes, &amp;c. yet
+<pb n="3" facs="tcp:199749:3"/>in regard it gave so great offence to the <hi>Gentiles,</hi> as appeares by
+<note n="d" place="margin">in his Octa<g ref="char:EOLhyphen"/>vius.</note>
+                     <hi>Minutius Felix</hi> and others, Christians should make it their great care to meete in the day time, that so every concernment of this private service and freewill offering may be clothed with inno<g ref="char:EOLhyphen"/>cency.</p>
+               </div>
+               <div type="part">
+                  <head>To interpret the Scriptures;</head>
+                  <p>Some Scriptures are
+<list>
+                        <item>
+                           <hi>darke and obscure.</hi>
+                        </item>
+                        <item>
+                           <hi>plaine &amp; easy.</hi>
+                        </item>
+                     </list>
+                  </p>
+                  <p>The <hi>darker</hi> and <hi>more obscure</hi> places are wrapp'd up in such my<g ref="char:EOLhyphen"/>stery's, that the best accomplishments of any in the world are not sufficient for them, and if men be not here modest and sober in their expositions, they may soone make themselves as ridiculous as the <hi>Monke, Paraeus</hi>
+                     <note n="a" place="margin">
+                        <hi>Comment on</hi> Rev. c. 1. v. 1.</note> speakes of, who derived the word <hi>Apocalypsis</hi> from <hi>apo, quod est, re; &amp; clypsor, clypsaris, quod est, velo, velas.</hi>
+                  </p>
+                  <p>The more <hi>plaine</hi> and <hi>easy places</hi> are the <hi>milke</hi> the Apostle speakes of provided by God for <hi>Babes.</hi>
+                  </p>
+                  <p>
+                     <hi>To interpret or expound;</hi>
+                     <note n="b" place="margin">Isag. ad Scrip. Sacr. c. 14.</note>
+                     <hi>Rivet</hi> saith there is a twofold <hi>inter<g ref="char:EOLhyphen"/>pretation.</hi>
+                  </p>
+                  <p n="1">1. The one <hi>circa dictiones &amp; earundem propriam significationem;</hi> concerning words and their proper signification, which he cals a <hi>version, paraphrase</hi> or <hi>metaphrase,</hi> rendring the originall in a more knowne tongue.</p>
+                  <p n="2">2. The other is <hi>in judicatione sensûs ex intentione ejus qui scripsit;</hi> which may be call'd, with <hi>Bishop Hall,</hi> the <hi>giving the sense of a text.</hi>
+                  </p>
+                  <p>
+                     <note n="a" place="margin">
+                        <hi>Ib.</hi> Phil. Sac. l. 2. part. 2. p. 456.</note>
+                     <hi>Glassius</hi> makes two parts of interpretation.</p>
+                  <p>One is <hi>veri &amp; genuini sensûs investigatio.</hi>
+                  </p>
+                  <p>The other is <hi>ejusdem plana &amp; perspicua enarratio;</hi> a searching out of the true and genuine meaning of a place, and then a cleare and perspicuous reporting of it.</p>
+                  <p>'Twere needlesse to say any thing to the other dutyes of <hi>praying and reading</hi> because it is granted on all hands that Christians may meet for such performances.</p>
+                  <p>The last words expresse the end of the meeting, <hi>to build up, &amp;c.</hi> which are laid downe so plainly, that if a man should use words to open them he would expose himselfe, probably, to that censure some <hi>expositors</hi> lye under, who, after some pains, leave texts more intri<g ref="char:EOLhyphen"/>cate then they found them.</p>
+                  <p>The summe of all then is this. <hi>That private Christians though nei<g ref="char:EOLhyphen"/>ther
+<pb n="4" facs="tcp:199749:4"/>ordained, nor learned in Arts and tongues, having the words of Christ dwelling in them richly, zealous of good workes, may meet weekly if they please, in some of their owne private houses, upon some working day, to interpret and give the sense of some more usefull and more easie places in the booke of God, for the building up of each other in knowledge and holinesse,</hi> which shall be proved by proceeding thus.</p>
+               </div>
+            </div>
+            <div n="2" type="chapter">
+               <head>CAP. 2. Containing the Arguments, by which 'tis proved lawfull for private Christians to interpret.</head>
+               <p>First of all, it is not to be found in all the book of God, that the <hi>worke of interpretation</hi> is made proper to the <hi>Ministry.</hi>
+                  <note place="margin">v. <hi>Drusius de tribus sect is. lib.</hi> 2. <hi>cap.</hi> 12.</note> Learned men may, the Scribes did interpret, who yet were of severall Tribes. Tis granted that the publike interpretation, in the face of the Congregation, upon the Lords day, belongs to men in office, and so doe also the performance of other duties, which no man surely will say are peculiar to them; as for instance, the minister is the mouth of the Congregation, and it is his duty <hi>in publicâ pre<g ref="char:EOLhyphen"/>catione aliis voce praeire,</hi> as <hi>Sharpius</hi> contends
+<note n="(a)" place="margin">
+                     <hi>Symph. Proph. &amp; Apost. pag.</hi> 218.</note>. But what then? may not private Christians pray privately in their families, closets, and occasionall meetings?</p>
+               <p>The <hi>Assembly of Divines</hi> in their larger Catechisme, in answer to that question, whither the word of God be to be read of all, say thus, although all are not to be permitted to read the word publikely to the Congregation, yet all sorts of people are bound to read it apart by themselves and with their families. Whither the <hi>Lection of the King</hi> mentioned by Mr. <hi>Lightfoot</hi>
+                  <note n="*" place="margin">
+                     <hi>Temple service cap.</hi> 17. <hi>sect.</hi> 1.</note> and <hi>Ainse worth</hi>
+                  <note n="*" place="margin">
+                     <hi>On Deut.</hi> 31. <hi>v.</hi> 11.</note> in his Annotations, were justifiable by Gods law, is very doubtfull, as some conceive
+<note n="*" place="margin">Vid. Jackson. Deodate in loc.</note>. But however the Kings rendring of the Law is an extraordinary service. And here it will not be a<g ref="char:EOLhyphen"/>misse to take notice of what
+<note n="*" place="margin">
+                     <hi>Comment. on Philem. v.</hi> 1.2.</note>
+                  <hi>Attersoll</hi> saith of private Christians. <hi>This shall be a singular commendation unto us, if we so order our se<g ref="char:EOLhyphen"/>verall charges and places of government, as that they may be called rather Churches, then private families; rather Schooles, then houses; rather temples of God, then dwellings of men: rather Tabernacles set up to serve the Lord, then buildings erected to serve our selves. Now we shall attaine to this praise and estimation among the faithfull, if our
+<pb n="5" facs="tcp:199749:4"/>houses do resemble Churches, by the practise of such exercises as are performed in it. For the Maister is both a King and a Pastor within his owne house; a King to rule and correct, a Pastor to instruct and reprove; yea to remove such as are obstinate and obdurate. Let us therefore all of us set up little Churches in our houses, let us use in them prayer to God, Catechizing of our youth, teaching of the Ignorant, reading of the Scriptures, singing of Psalmes, conferring one with a<g ref="char:EOLhyphen"/>nother, examining of our people, taking an account how they profit, comforting them that are weake, encouraging them that are willing, discountenancing them that are froward and untoward, shewing gentle<g ref="char:EOLhyphen"/>nesse unto all, suffering the evill, and instructing them with meeknesse that are contrary minded.</hi>
+               </p>
+               <p>Secondly, private Christians, though not in <hi>office,</hi> nor learned <hi>in languages,</hi> are <hi>bound</hi> to read the word, and no where forbid to interpret. Read it they ought. Here then lets see what this word is which they must read: <hi>Andrew Willet</hi>
+                  <note n="a" place="margin">
+                     <hi>Synop. Pa<g ref="char:EOLhyphen"/>pismi</hi> p. 46.</note> saith that the <hi>Scripture is not the letter, but the sense thereof.</hi> So also <hi>Thorndike</hi>
+                  <note n="b" place="margin">
+                     <hi>Relig. Assem.</hi> c. 6. p. 177.</note>, <hi>the word of God is not the letter and syllable, but the sense and meaning of the Scriptures.</hi> If so, then all those places in the Law, Prophets and Apostles which command these <hi>private</hi> men to <hi>read,</hi> do also command them, to <hi>render the sense</hi> of all those places they do read unto themselves, which is <hi>interpretation:</hi> if then every particular man be to interpret to himselfe,
+<note place="margin">Eccles. 4.9.</note> why may we not say that <hi>vis u<g ref="char:EOLhyphen"/>nita fortior,</hi> that two are better then one? shall <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> be en<g ref="char:EOLhyphen"/>couraged into the world againe? must men turne <hi>Monkes</hi> when they read and interpret? If any man should question whither a private man be not enjoyned to interpret to himselfe what he reads, I could wish he would consider,
+<note place="margin">Act. 8.30. <hi>in loc.</hi>
+                  </note> whether that were a whole<g ref="char:EOLhyphen"/>some and pertinent question, which <hi>Phillip</hi> offered to the <hi>Eunuch; understandest thou what thou readest? Chrysostome</hi> is much in the commendation of <hi>Phillip,</hi> for his seasonable question and prudent insinuation, <hi>vide Philippi philosophiam;</hi> and much in the praise of the <hi>Eunuch,</hi> for the improvement of his time, <hi>Eunuchus &amp; in foro, &amp; in curru vectus, lectioni Scripturarum attendebat, sed vos hoc non agitis, nullus enim vestrûm in manibus habet librum, sed omnia potius quàm librum.</hi> The <hi>Eunuch was for his booke, we are for all things but our bookes.</hi> Were Christians permitted to read, and tied up so, as that they ought not to interpret to themselves, they would read
+<pb n="6" facs="tcp:199749:5"/>without <hi>understanding,</hi> which is as unseemly, as to <hi>pray without understanding;</hi> neither would they fare much better then the <hi>Ro<g ref="char:EOLhyphen"/>mans</hi> now with their <hi>unknowne tongue,</hi> or then the <hi>Romans</hi> of old, when 'twas <hi>capitall</hi> for any, except the <hi>Quindecemviri,</hi> to read the <hi>Prophesies of the Sybills,</hi> as
+<note n="*" place="margin">
+                     <hi>Apol.</hi> 2. <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>. <hi>Lactant. inst.</hi> l. 1. c. 6.</note>
+                  <hi>Justin Martyr</hi> observes.</p>
+               <p>Thirdly, I shall lay downe some texts, that charge private men with the duty of <hi>teaching</hi> one another. <hi>Col.</hi> 3.16. <hi>Let the word of Christ dwell in you richly, in all wisdome, teaching and admonishing one another.</hi>
+               </p>
+               <p>The <hi>persons</hi> here concerned to <hi>teach,</hi> are not only men in <hi>office,</hi> but <hi>private men,</hi> whether learned, or no, tis a duty charged upon al men, <hi>mundani &amp; saeculares</hi> (i. e.) that according to <hi>Chrysostome,</hi> all that have Wife,
+<note place="margin">Chrysost. in loc.</note> Children, Servants, and Soules to save, must teach.
+<note place="margin">Trap. in loc.</note>
+                  <hi>This duty is double,</hi>
+               </p>
+               <p n="1">1. The <hi>one</hi> concernes a man towards himselfe <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, the word must dwell richly in him, or rather <hi>indwell</hi> in him, as an ingrafted and incorporated word. <hi>Alexander</hi> was wont to lay <hi>Homers Iliad's</hi> under his pillow,
+<note place="margin">Plut. in vit.</note> but Christians should lay up Christs word in their <hi>hearts:</hi> they should so concoct and digest the word, as to turne it into <hi>succum &amp; sanguinem,</hi> into pure nourishment, that if there were any such thing in the world as <hi>Transubstantia<g ref="char:EOLhyphen"/>tion,</hi>
+                  <note place="margin">Chrys.</note> it should be here. Men must <hi>omnia iterùm at{que} iterùm versare,</hi> search and search againe, till the word be as well known to them, as those that live in the same house, <hi>intus &amp; in cute.</hi> They should not let the word <hi>quasi peregrinum foris stare,</hi> stand at the door like a stranger:
+<note place="margin">
+                     <hi>of Frater: cor<g ref="char:EOLhyphen"/>rep.</hi> p. 6.</note> now as a means whereby the word of Christ may dwell richly in us, <hi>Dr. Hammond</hi> observes that Christians are to teach and admonish one another, which leads me to the</p>
+               <p n="2">2. <hi>Duty,</hi> which concernes a man towards others, <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. There hath been a double mistake about this word.</p>
+               <p>Some are apt with <hi>Estius</hi> and <hi>Piscator,</hi> to say that here is <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> an incongruity, making the text to speake false <hi>Greeke,</hi> and then correct it: these men I find
+<note n="*" place="margin">solicitè in au<g ref="char:EOLhyphen"/>thore hoc seloecis<g ref="char:EOLhyphen"/>mos excusant, cùm ipsi potius accusandi sunt, qui tam temerè judicium tule<g ref="char:EOLhyphen"/>runt. Exercit. in No: Test. in loc.</note>
+                  <hi>Heinsius</hi> to deale with, and con<g ref="char:EOLhyphen"/>fute with a <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</p>
+               <p>Others conceiving the word to lay too much duty upon private Christians, seeme to mince it, allowing men to teach the Scrip<g ref="char:EOLhyphen"/>tures, but not to interpret them: with these I have now to do. <hi>Zanchy</hi> saith, that to teach, is <hi>Scripturam ad aliorum usum inter<g ref="char:EOLhyphen"/>pretari,</hi>
+                  <pb n="7" facs="tcp:199749:5"/>to interpret the Scriptures to the edification of others; and there will be the lesse doubt whether <hi>Zanchy</hi> be in the right,
+<note place="margin">in loc.</note> if it be observed that Christ makes use of the same word,
+<note place="margin">Matth. 28.20. <hi>Crit. sac.</hi>
+                  </note> when he commands his Apostles to teach all nations, <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. Mr. <hi>Leigh</hi> saith it may generally be taken for all the parts of the Apostoli<g ref="char:EOLhyphen"/>call and Ecclesiasticall ministry. Dr.
+<note place="margin">
+                     <hi>Episc. jura dis.</hi> 3. c. 16.</note>
+                  <hi>Hammond</hi> puts some kind of honour upon the word, making it to import the worke of the Pastor or Bishop, whiles <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, and <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> im<g ref="char:EOLhyphen"/>port rather the worke of the Evangelist. The Evangelist was to preach to those <hi>without,</hi> the Pastor or Bishop was to teach and build up those <hi>within.</hi> Now if a Pastor or Bishop may interpret, because Christ hath bid him go and reach; why may not we con<g ref="char:EOLhyphen"/>ceive so also concerning the private Christian who is bid to teach untill we heare from Christ to the contrary?
+<note place="margin">in loc.</note>
+                  <hi>Chrysostome</hi> is very full to this purpose, <hi>Dic mihi, si qui ad literatores abeunt, perpetuò in elementis addiscendis persisterent, annon multum laboris praeceptori exhiberent? quous{que} vobis &amp;c.</hi> (i.e.) Tell me, what will ye never have learnt your letters? must I be troubled with you alwaies? twas not so with the Apostles, they were wont to teach for a while, and then make their best Scholler teacher to the rest, and hasten away to another place; I could wish you would but looke into the world and see what want of Pastors there is; <hi>sed vos me detine<g ref="char:EOLhyphen"/>tis hîc affixum.</hi> But if you did, 'twere not safe for me to go from you yet, for I have not perfected my work among you. <hi>Chrysostome</hi> was much moved that he had taught them so long, and they had profited so little, whereas they might haue been able so to have taught themselves, as to have spared him for those places in the Country that had more need. But what was it he would have them teach one another? surely 'twas the <hi>Scripture;</hi> for in the same place he calls to them, <hi>comparate vobis Biblia,</hi> to get Bibles, at least to get the <hi>New Testament.</hi> But what were they to teach one another from <hi>these Scriptures?</hi> Surely they were not to teach one another how many times <hi>[a]</hi> or <hi>[b]</hi> was used in the <hi>N. T.</hi> the worke of the <hi>Masorites</hi> under the old; but to teach one another the things belonging to their eternall peace. But it may be that <hi>Chrysostome</hi> would have them teach one another the Scriptures, but not in<g ref="char:EOLhyphen"/>terpret the Scriptures. You say well, this is something, and when you shew me a man that hath found out a <hi>new way</hi> to <hi>teach,</hi> and
+<pb n="8" facs="tcp:199749:6"/>not give the <hi>sense</hi> of what he <hi>teacheth,</hi> which is <hi>interpreting;</hi> then it may be, I will beleive, that <hi>Chrysostome</hi> and <hi>St. Paul</hi> would have private men to teach, but not interpret. I will now returne to <hi>Zanchy</hi> againe, and see what he adds concerning admonishing one another, in regard he was so expresse, telling us that to teach was to interpret. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+                  <hi>commonefacere,</hi> to admonish, (i.e.) saith he in <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+                  <hi>in animum ponere, imprimere &amp; insculpere,</hi> to presse and urge upon the Conscience what you have taught: a man must admonish those <hi>qui sciunt &amp; pigri sunt,</hi>
+                  <note place="margin">in loc.</note> saith <hi>H. Cardinal.</hi> or as <hi>Calvin,</hi> because <hi>virtus laudatur &amp; alget, simul addit admonitionē, quae est veluti doctrinae stimulus.</hi>
+                  <note place="margin">in loc.</note> (i.e.) A man, I say, must admonish those that know their Masters will, and do it not; the word must be en<g ref="char:EOLhyphen"/>forced upon their hearts, that have golden tongues, and leaden heeles, that can talke richly, but walke shamefully. Tis not e<g ref="char:EOLhyphen"/>nough for one private Christian to teach another, (i. e.) to in<g ref="char:EOLhyphen"/>forme his understāding; but he must also admonish another, (i.e.) apply what he hath taught, to reforme the affection. To this purpose doth <hi>Zanchy</hi> open the text, whence he also raiseth a Do<g ref="char:EOLhyphen"/>ctrine which I shall here insert.</p>
+               <p>
+                  <hi>Observa. Docendi munus, non solùm palàm &amp; publicé in Ecclesiâ, sed privatim &amp; secretò in aedibus quoque debere vigere, &amp; Christia<g ref="char:EOLhyphen"/>nos tenerise mutuò docere, &amp; adhortari privatim.</hi> (i. e.) the buisi<g ref="char:EOLhyphen"/>nesse of teaching is not only relating to the publick in the Con<g ref="char:EOLhyphen"/>gregation; but private Christians ought to teach and admonish one another in their owne houses. I know by this time, some will be ready to say, that if private Christians may <hi>teach</hi> and <hi>apply,</hi> they may not only <hi>interpret,</hi> but <hi>preach</hi> also; for what is <hi>preaching,</hi> but <hi>teaching</hi> and <hi>applying?</hi> And here they will inveigh against all private meetings, and private persons interpreting, as plaine prea<g ref="char:EOLhyphen"/>ching; resolving to starve their poor soules, rather then refresh them at a neighbours house. But good Reader weigh that which <hi>Byfeild</hi> hath by way of <hi>objection</hi> and <hi>answer.</hi>
+                  <note place="margin">in loc.</note>
+               </p>
+               <p>
+                  <hi>Ob.</hi>
+                  <q>It seems this place favours the opinion of such as hold that Christian neighbours met together upon the Lords day, or at o<g ref="char:EOLhyphen"/>ther times, when there is no publick exercise, may labour to e<g ref="char:EOLhyphen"/>difie themselves by instructing one another, out of the word privately.</q>
+               </p>
+               <p>
+                  <q>
+                     <hi>R.</hi> It is not unlawfull so to do, and this place doth approve of
+<pb n="9" facs="tcp:199749:6"/>it, so as they keep within their bounds, viz. that the matter taught be not against piety, the true peace of Zion. And that the manner be plaine and familiar, as Family instruction should be, by keeping on foot publike doctrine, by conference, pro<g ref="char:EOLhyphen"/>pounding of doubts, or instructing of the ignorant, out of such places as they do undoubtedly understand.</q>
+               </p>
+               <p>Bishop Davenant <hi>to the same purpose:</hi>
+                  <q>Primus usus est, ut Christi<g ref="char:EOLhyphen"/>ani (etiam Laici) sese mutuò doceant &amp; instituant in rebus ad fi<g ref="char:EOLhyphen"/>dem pertinentibus, &amp; quam sibi compararunt scientiam ex Scrip<g ref="char:EOLhyphen"/>turis, expromant ad fratres aedificandos cum opus fuerit. Quam<g ref="char:EOLhyphen"/>vis enim munus, publicè, cum autoritate, docendi, incumbit mini<g ref="char:EOLhyphen"/>stris; officiū tamen, privatim, ex charitate, docendi, incumbit cui<g ref="char:EOLhyphen"/>libet privato, cui datur facultas &amp; occasio alios in religionem &amp; fide aedificandi. <hi>The summe of this I find in</hi> Elton.
+<note place="margin">in loc.</note> Tis not the Ministers office alone to teach and admonish, though especially, and in peculiar sort it belong to him; but it is the duty of all that professe Christ, they are to teach &amp; admonish one another, as occasion is offered &amp;c, yea private persons may sometimes instruct teachers in some things in private, examples we have in <hi>Act.</hi> 18.26. poor <hi>Aquila</hi> and <hi>Priscilla</hi> instructed eloquent <hi>Apollos;</hi> the text saith; whom when <hi>Aquila</hi> and <hi>Priscilla</hi> had heard they tooke him unto them, and expounded to him the way of God more perfectly. We see then our duties, now this duty is little thought on or practised, nay I may adde tis much op<g ref="char:EOLhyphen"/>posed.</q>
+               </p>
+               <p>In the old Testament God was remarkeably severe,
+<note place="margin">2 Cron. 26. <hi>v.</hi> 16.-22.</note> against all that did intrude upon the <hi>Priests office, Ʋzziah</hi> the King was smit<g ref="char:EOLhyphen"/>ten with Leprosy, for offering to burne incense;
+<note place="margin">2 Cron. 17.9. Deut. 11.18.19.</note> yet as the Priests were to teach the people, so were the Jews to teach their Children, 2 <hi>Chron.</hi> 17.9. <hi>Deut.</hi> 11. <hi>v.</hi> 18, 19.
+<note place="margin">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                  </note> in both which places there is the same <hi>Hebrew</hi>
+                  <note n="*" place="margin">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</note> word, and rendred by the <hi>Septuagint</hi> by the same word
+<note n="*" place="margin">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</note>
+                  <hi>St. Paul</hi> made use of <hi>Col.</hi> 7.16. which imports the same duty.</p>
+               <p>The Preists were to teach, and to interpret the Law, and the Scribes, as <hi>Thorndike</hi> reports out of <hi>Philo,</hi> of the <hi>Essenes,</hi>
+                  <note place="margin">
+                     <hi>Relig. Assem. c.</hi> 3.</note>
+                  <hi>lib. omnem probum liberum esse. Coming to their holy places called Synagogues they sit downe in ranks, according to yeares, the younger under the El<g ref="char:EOLhyphen"/>ders, with a fit decorum, disposed to heare, then one taketh the booke
+<pb n="10" facs="tcp:199749:7"/>and readeth, another of the best practised cometh afterwards and recog<g ref="char:EOLhyphen"/>nizeth that which was least understood; that is, expoundeth.</hi> So <hi>Is. Casaub.</hi>
+                  <note n="*" place="margin">
+                     <hi>Exer: tertia, ad Appa: Annal. Baro. diat.</hi> 9.</note> speaking of the <hi>Scribes,</hi> saith that <hi>legem populo legebant—ac si opus esset, interpretabantur.</hi> i. e. they did read the law to the people, and if need were, expounded it.</p>
+               <p>So were the Fathers of Families, men not in office, to teach the law and expound it:
+<note place="margin">
+                     <hi>Jew. Antiq. lib.</hi> 1. <hi>c.</hi> 6.</note> From <hi>Godwin</hi> it appeares, that as the <hi>publike ministeriall</hi> exposition of the law belonged to the Priests and Pro<g ref="char:EOLhyphen"/>phets, so a <hi>private Chatecheticall</hi> exposition of the law belonged to the Masters of Families. <hi>Deut.</hi> 6. <hi>v.</hi> 6, 7. <hi>These words which I command thee this day, shall be in thy heart, and thou shalt teach them diligently unto thy Children, and thou shalt talke of them, when thou sittest in thine house, and when thou walkest by the way, and when thou lyest downe, and when thon risest up.</hi> Here we will note <hi>two things.</hi>
+                  <list>
+                     <item>1. The <hi>duty,</hi> teach.</item>
+                     <item>2. The <hi>persons</hi> to be taught, children.</item>
+                  </list>
+               </p>
+               <p n="1">1. The duty, teach them diligently, or whet them; i. e. as <hi>Ains<g ref="char:EOLhyphen"/>worth</hi> saith,
+<note place="margin">in loc.</note>
+                  <hi>often, earnestly and diligently teach them, that they may pierce the hearts of thy Children to understand and affect them.</hi>
+               </p>
+               <p n="2">2.
+<note place="margin">Ainsw. in loc.</note> The persons to be taught, thy children: <hi>the Hebrewes under<g ref="char:EOLhyphen"/>stand not the naturall sons only, but Schollers also or Disciples;</hi> the manner how the father should teach his Child, is set downe in <hi>Exod.</hi> 12.26, 27. <hi>and it shall come to passe, when the Children shall say unto them, what meane you by this service, that ye shall say it is the sacrifice of the Lords passover, who passed over the houses of the Chil<g ref="char:EOLhyphen"/>dren of Israel in Aegypt, when he smote the Aegyptians, and delive<g ref="char:EOLhyphen"/>red our houses.</hi>
+               </p>
+               <p>The Jewes were to teach their Children,
+<note place="margin">ib.</note> not only the outward <hi>rite,</hi> but the <hi>meaning</hi> of it also, accordingly they hold, from <hi>Exod.</hi> 23. <hi>v.</hi> 14, 15. and <hi>Deut.</hi> 16. <hi>v.</hi> 14, 16. <hi>that every child that could hold his Father by the hand, and go up from Jerusalem gates, to the mountaine of the Temple, his Father was bound to cause him to go up, and appeare before God with him, to the end he might catechise him in the commandements.</hi>
+               </p>
+               <p>If a child asked this question, <hi>what meaneth this service?</hi> 'Tis to be supposed, that the <hi>answer was to this purpose.</hi>
+               </p>
+               <p n="1">1. Touching the name of it, tis called the <hi>Passeover</hi> from an <hi>He<g ref="char:EOLhyphen"/>brew</hi> word signifying to passe by, or passe over &amp;c. as the Jews are
+<pb n="11" facs="tcp:199749:7"/>called <hi>Hebrews,</hi> from <hi>Eber,</hi> a word of the same signification, re<g ref="char:EOLhyphen"/>lating to the passage of <hi>Abraham</hi> over <hi>Euphrates,</hi> as some thinke.
+<note place="margin">
+                     <hi>Selden de Lydis, Syris. prol. c.</hi> 2. B. <hi>Babington in loc. Gerrard. loc. com. Tom.</hi> 4. <hi>de sac:</hi> c. 4.</note> Because <hi>Pharaoh</hi> had oppressed Israel, Gods firstborne, therefore God passed over the <hi>Isralites,</hi> and slew his firstborne.</p>
+               <p n="2">2. The outward element, the <hi>res terrena,</hi> was a Lamb; and why a Lamb? because the Lamb doth excellently set forth Christ our Passeover, who is already sacrificed for us; the <hi>Paschall Lamb</hi> was <hi>perfectus, masculus, anniculus,</hi> a male of a year old, without ble<g ref="char:EOLhyphen"/>mish, which represented Christ who was without spot, dividing the spoile with the mighty, having power given him over all flesh, having the keyes of Hell and Death, the keyes of the Kingdome of Heaven, so that none can go downe to the chambers of death without his leave, or come off from the torments of Hell without his warrant, or enter in at the gates of glory without his favour.</p>
+               <p n="3">3. The action of the Sacrament.</p>
+               <p n="1">1. <hi>Segregatio,</hi> the Lambe was to be severed from the flock;
+<note place="margin">Taylor on Types</note> so was Christ set apart by the Father for the worke of Redemp<g ref="char:EOLhyphen"/>tion, and will not you set your selfe apart for his service?</p>
+               <p n="2">2. <hi>Mactatio,</hi> the Lamb was slaine; Christ died for the sins of the world:</p>
+               <p n="3">3. <hi>Assatio,</hi> roasted with fire, Christ was pierced through, fast<g ref="char:EOLhyphen"/>ned to the Crosse, and did undergo the fire of his Fathers wrath, that so he might become food for sinners.</p>
+               <p>
+                  <hi>Manducatio,</hi> the Lamb was to be eaten; we must <hi>eate Christs flesh and drinke Christs blood, Ioh,</hi> 6.56.</p>
+               <p n="4">4. Communicants, not forreiners nor hired servants, but all men and women belonging to the Congregation of Israel, and Profelites also, if they were circumcised.</p>
+               <p n="5">5. The end, <hi>ut esset memoriale praeteriti &amp; figura futuri,</hi> that we might keep in mind the deliverance that is past, and that it might figure forth the greater deliverance by Christ, which was then to come.</p>
+               <p>To <hi>whet</hi> this doctrine upon the heart of his <hi>Hebrew</hi> child, he might tell him, that as the Lamb was to be eaten with <hi>soure hearbs,</hi> so should he thankfully remember the hardship of <hi>Aegypt,</hi> from which God had delivered him, as also to come before the Lord at this Feast in the bitternesse of his Soule for sin; when the leaven was to be cast out of the house, sin was to be cast out of the soule,
+<pb n="12" facs="tcp:199749:8"/>and then the offering would be accepted. Some such answer as this, they were to give by Gods law; and they did so, saith <hi>God<g ref="char:EOLhyphen"/>win:</hi> certainly here was <hi>verbi &amp; expositionis conjunctio,</hi> interpreta<g ref="char:EOLhyphen"/>tion of Scriptures;
+<note place="margin">
+                     <hi>Godw. in Jew. Ant. l.</hi> 3. <hi>c.</hi> 4. <hi>Rivet. Com. in Exod.</hi> 13. <hi>v.</hi> 16.</note> and yet the Father was bound to it, and it may be, if his <hi>poor neighbour</hi> had asked the like question with his child, he might without sin, have given a like answer. But before I passe to another argument, I will lay downe the Iudgement of some men, concerning the duty of a Father, because I meet with many, that will not allow the Father to interpret the Scriptures to his Child. In <hi>Hildersham</hi> I find thus, <hi>no Minister is more straightly charged of God,</hi>
+                  <note place="margin">
+                     <hi>On Ps.</hi> 51 <hi>lect.</hi> 58. <hi>Com. on Phil. vers.</hi> 2.</note>
+                  <hi>to teach and Catechise his flock, then you (Parents) to instruct your children. In Dyke</hi> that <hi>there are two speciall duties of the Pastor respecting Gods service, preaching, and praying; in both these in some measure should the governers of the Family be like the Pastors of the Church.</hi>
+                  <note n="*" place="margin">
+                     <hi>Attersol. on Phil. v.</hi> 1.2.</note>
+                  <hi>They are also greatly deceived, who take them<g ref="char:EOLhyphen"/>selves to be discharged of their duty, when they have taught them</hi> (their Children) <hi>the ten commandements, the Lords prayer, and the Creed, or the Articles of faith, because they say they have done what they can, and are able to performe no more. If they can do no more, it is a shame for them that they will be Fathers, before they can do that which is the duty of Fathers; it is one thing to teach them to say them, an other to understand them: it is not enough for us to help them to speake the words, unlesse we labour to make them conceive the meaning of the words. The commandements of the law, and the petitions of the Lords prayer, stand not in the bare words, but in the true meaning: let them know there<g ref="char:EOLhyphen"/>fore, that they must render a greater account, then of teaching them to utter and pronounce the words; they must cause them to understand them, they must sow the seeds of Christian Religion in their hearts, they must instruct them with all diligence, they must exhort them with all earnestnesse,</hi>
+                  <note place="margin">
+                     <hi>Synag. Judai. c.</hi> 3. <hi>quisquis autem ante tem<g ref="char:EOLhyphen"/>pus tredecim an<g ref="char:EOLhyphen"/>norum illorum peccaverit ejus poena patrem ma<g ref="char:EOLhyphen"/>net.</hi>
+                  </note>
+                  <hi>they must charge them to feare God, and to walke in his wayes; that so their children may be made Gods children, and so give them to him againe, of whom, by whose blessings at the first they recei<g ref="char:EOLhyphen"/>ved them.</hi>
+               </p>
+               <p>All this I suppose amounts to that, which <hi>Buxtorphius</hi> relates from the Jewes; that they looked upon the sins of their Children as their owne, till their children came to thirteen yeares of age. And if so, lets not envy parents the best advantage they can make of Gods word, by interpreting it unto, and whetting it upon them.
+<pb n="13" facs="tcp:199749:8"/>
+                  <hi>And it being all one whether these duties be performed in one Family, or a collection of more,</hi>
+                  <note place="margin">
+                     <hi>Duty of Pastors and People. p.</hi> 52.</note>
+                  <hi>as</hi> Dr. Owen <hi>observes.</hi> I will go on to ano<g ref="char:EOLhyphen"/>ther argument.</p>
+               <p>Fourthly, it may be considered what the Scripture saith con<g ref="char:EOLhyphen"/>cerning private Christians <hi>edifying</hi> one another. 1 <hi>Thes.</hi> 5.11. <hi>e<g ref="char:EOLhyphen"/>difie one another,</hi>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, the same word made use of when Mi<g ref="char:EOLhyphen"/>nisters are commanded to edifie. 1 <hi>Cor.</hi> 3.10. <hi>Eph.</hi> 4.12.</p>
+               <p n="1">1. <hi>Quid nominis,</hi> the word signifies to build, and the Metaphor is taken from Carpenters and builders, who by degrees carry on and raise up their worke, untill they have brought it to some per<g ref="char:EOLhyphen"/>fection; this Metaphor the holy Ghost seems much delighted with; tis applied to the Saints, who are the Temple and house of God, 1 <hi>Pet.</hi> 4.17. in which he dwelleth by his Spirit, the whole company of the elect, are compared to a great city, the new Jeru<g ref="char:EOLhyphen"/>salem built up of believers, as living stones upon Christ as the cor<g ref="char:EOLhyphen"/>ner stone.</p>
+               <p n="2">2. <hi>Quid rei,</hi> to edifie or build up one another, is to further and help forward one another by all holy meanes in grace and good<g ref="char:EOLhyphen"/>nesse, to exhort, comfort, and reprove one another dayly, <hi>Heb.</hi> 3.13. to provoke each other to love and good works, to warne them that are unruly, to <hi>rebuke our neighbour, and not suffer sin up<g ref="char:EOLhyphen"/>pon him. Levit.</hi> 19.17.
+<note place="margin">
+                     <hi>Anisw. in loc. Job.</hi> 13.3. <hi>&amp;</hi> 32.12. <hi>Is.</hi> 11.4.</note> The Originall signifies to rebuke with conviction, or argument, by word, to shew what is right, and to refell the contrary, and tis rendred sometimes to reason, some<g ref="char:EOLhyphen"/>times to convince, and to reprove: if we do it not, we shall be ly<g ref="char:EOLhyphen"/>able to the punishment of other mens sin. <hi>Quare si quis ferat peccatum in altere, jam contraxit peccatum ipse.</hi>
+                  <note place="margin">
+                     <hi>Dr. Rainolds Cens. lib. Apoc. Tom.</hi> 2. <hi>prae.</hi> 138</note> To edifie is to make a gratious use of the <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> or <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, <hi>verba viva, &amp; vivificantia,</hi> the lively Oracles, or life giving Oracles, the Scrip<g ref="char:EOLhyphen"/>tures, for all those holy ends and purposes of exhortation, com<g ref="char:EOLhyphen"/>fort, admonition &amp;c. The Carpenter can doe nothing without his rule and square, the Christian can doe nothing in this building without Gods word, which is the <hi>rule, Gal.</hi> 6.16. &amp; as builders of a house do mutually help on another, till they have finished, so eve<g ref="char:EOLhyphen"/>ry private Christian should be ready to serve his brother in love, till the Temple be compleated. I will here lay downe one instance.</p>
+               <p>Put the case many poor Christians meeting together a little before Easter, fall to discourse, that Easter day is a great day, <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>,
+<pb n="14" facs="tcp:199749:9"/>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, a good time, they have laid by their offering mony, and if they can gaine their new clothes, they purpose to receive in the morning, and meet with the young men of the next Parish, you know where in the afternoone. Whereupon one more serious then the rest, askes them with teares, whether they understand the nature of the Sacrament, the meaning of that morsel of bread and sip of wine; he finds them all ignorant, not discerning the Lords body, tells them of the great danger of going to the Mar<g ref="char:EOLhyphen"/>riage feast, without the wedding garment, they would eate and drinke judgment to themselves. At this some steale away, but o<g ref="char:EOLhyphen"/>thers desire him to go on, tis agreed among them to retire unto the next private house for conveniency; and the rather because in many places all acts of Religion are scorned, but what are per<g ref="char:EOLhyphen"/>formed as it were in the <hi>market place and in the corners of the streets.</hi> Well, the honest hearted Christian begins with that of the Apo<g ref="char:EOLhyphen"/>stle. <hi>The Lord Jesus the same night in which he was betrayed, tooke bread,</hi>
+                  <note place="margin">1 <hi>Cor.</hi> 11. <hi>v.</hi> 23-25.</note>
+                  <hi>and when he had given thanks, he brake it and said, take, eat, this is my body, which is broken for you, this do in remembrance of me: after the same manner also he tooke the cup, when he had supped, say<g ref="char:EOLhyphen"/>ing, this cup is the new Testament in my blood, this do ye as oft as ye drink it in remembrance of me.</hi> Wherein he bids them marke</p>
+               <p n="1">1. Who is the Author, Jesus Christ, his table you go to, look to your selves: <hi>Adam</hi> lost all by eating of the tree of Knowledge, you may do so too by eating of that bread of life.</p>
+               <p n="2">2. The time, the night wherein he was betrayed, these are the words of a dying man, which should be remembred, he hath a Legacy to bestow,
+<note place="margin">Dr. Reynolds med. on Sacram.</note> worthy to be accepted, he is now, even now giving his body, not to the dust, but to penitent sinners. O the deare love and the care of Jesus towards the children of men! though the time was now drawing nigh that he must drinke up the cup of his fathers wrath, and having sweat out some of his blood in the garden, was to loose the rest upon the Crosse: yet all this could not stop the course of his affections, nor shut up the bowells of his mercy, nor divert his thoughts from our Salvation to his owne suffering, but <hi>comedentibus illis,</hi> even while he was eating his last bit, in the very night that he was betrayed, he takes care to give to his Disciples, this <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, this potion of im<g ref="char:EOLhyphen"/>mortality and bread of eternall life.</p>
+               <p n="3">3. The matter of the Lords supper, bread and wine, the invi<g ref="char:EOLhyphen"/>sible
+<pb n="15" facs="tcp:199749:9"/>matter is the body and blood of Christ. Indeed the table of Christ hath no outward pomp and beauty; this Sacrament is the picture of him who was a man of sorrows, and drawne in the day, when Gods fierce wrath was upon him: but what then, will you despise it? God forbid. Christ can feed thousāds with a few loaves. While we have bread we feele no famine, where there is Christ, there is no want: he is our bread and wine, we may live with him; if we live to him, we cannot live without him. <hi>Vita panis, vita Christus.</hi>
+               </p>
+               <p n="4">4. The actions of Christ.</p>
+               <p n="1">1. <hi>Accepit panem,</hi> he tooke bread, so he tooke upon him our nature, the seed of Abraham, and became <hi>Emanuell,</hi> God with us: this is the great mystery of Godlinesse, God manifested in the flesh. <hi>Deus &amp; homo, mater &amp; virgo:</hi>
+                  <note place="margin">1 <hi>Tim.</hi> 3.16.</note>
+               </p>
+               <p n="2">2. <hi>He gave thankes,</hi> or as tis expressed in another place, <hi>he bles<g ref="char:EOLhyphen"/>sed;</hi> this was Christs setting apart the bread and wine from com<g ref="char:EOLhyphen"/>mon use, to a holy and solemne use: he gave thanks, and yet lit<g ref="char:EOLhyphen"/>tle comfort he had from the world in his life, and lesse he was to have in his approaching death; yet he gives thanks. Christ had his delights from everlasting with the Sons of men, (i. e.) in contri<g ref="char:EOLhyphen"/>ving the businesse of their salvation in laying the plot and designe of it, and when he came somewhat neer the <hi>consummatum est,</hi>
+                  <note place="margin">
+                     <hi>Prov.</hi> 8.31.</note> the accomplishment of it, he told his Disciples, <hi>desiderio desideravi.</hi> I have a huge, great, and earnest desire to eate with you: and there<g ref="char:EOLhyphen"/>fore in the very night wherein he was betrayed, he takes the bread, and gives thanks to God the Father, for the leasure and oppor<g ref="char:EOLhyphen"/>tunity of celebrating his last supper, for the redemption of the world; desiring with all that the bread and wine might nourish up the soules of his Disciples to eternall life.</p>
+               <p n="3">3. <hi>He brake the bread</hi> and poured forth the wine; so was his body broken, and his blood poured forth for our transgressions.</p>
+               <p n="4">4. <hi>Take,</hi> Christ gives the bread and wine; God so loved the world, as to give his Son, and so loved the world as to give him<g ref="char:EOLhyphen"/>selfe: Christ is the greatest gift, of dearest love; as he then gives himselfe to thee, so do thou give thy selfe to him.</p>
+               <p n="5">5. <hi>Eate and drinke:</hi> but what is it, O Jesus! that they must eate and drinke? That body of which thou saidst to <hi>Mary,</hi> touch me not, for I am not yet ascended: must not she touch thee, &amp; must we feed upon thee? This <hi>accipe &amp; comede,</hi> take, eat, notes not
+<pb n="16" facs="tcp:199749:10"/>a carnall feeding upon his flesh now in glory, but a spirituall fee<g ref="char:EOLhyphen"/>ding of the Soule upon Christ under the <hi>species</hi> of bread &amp; wine.</p>
+               <p n="6">6. The
+<note n="*" place="margin">
+                     <hi>Joh. Denison his sacram. Ban<g ref="char:EOLhyphen"/>quet. p.</hi> 135.</note> verball action as one calls it, <hi>this is my body,</hi> which was broken for you. O happy soule! as <hi>Moses</hi> found God in the bush, so thou mayst find him in the bread.</p>
+               <p n="5">5. The end of it, <hi>this do in remembrance of me,</hi> behold this Cru<g ref="char:EOLhyphen"/>cifix: as the Master of the feast said, friend, how camest thou hi<g ref="char:EOLhyphen"/>ther? so will Christ say one day to every communicant, friend wherefore camest thou in hither? then happy shall that man be, that can say, Lord, I came to remember thy death, that so my faith may be strengthned, my sin mortified, and my pardon sealed. And having gone thus farr, he exhorts them to examine and judge themselves here, that they may not be condemned by the Lord; desiring them but to consider, whether it be not meet to cleanse the roome where the Lord must lie, to come with broken and bleeding hearts, to receive a broken and bleeding Jesus, and to pray that that blood of Christ which was once poured forth for them, may now be poured forth upon them, that as Christ died for sin, they may dy to sin, and never re<g ref="char:EOLhyphen"/>turne to folly more. Having said thus, the whole company gives him hearty thanks, intreating him as oft as he can to meet with them and instruct them, he promiseth, seeing they so please, week<g ref="char:EOLhyphen"/>ly at the same place and time, to come to them, bringing with him some godly able Christians, who in their course shall share with him in the worke; and it may be, they will prevaile with their Mi<g ref="char:EOLhyphen"/>nister to come and oversee them and encourage them. Now tell me Reader is not this edifying? is not this interpreting? is not this exhorting and instructing, teaching and admonishing? cannot some private Christians do thus? may not some private Christians do thus? Hath this private man intruded into the Ministers office or no? hath he leaped over the bounds which Christ said he should not passe?
+<note place="margin">
+                     <hi>Math.</hi> 26. <hi>v.</hi> 8.10.</note> I hope thou wilt say he should not be troubled, <hi>he hath wrought a good worke,</hi> and not say as they did; <hi>ad quid perditio haec?</hi> why was he prodigall of his grace? But because all men are not of one mind, I will lay downe the thoughts of some others in their owne words, and leave the world to judge. <hi>Metuebant enim ma<g ref="char:EOLhyphen"/>lum, si contra publicam persuasionem faterentur quod erat verum. Lactant.</hi>
+                  <note place="margin">
+                     <hi>Frat. Correp. p.</hi> 5.</note>
+                  <hi>Instit. l.</hi> 1. <hi>c.</hi> 19.</p>
+               <p>
+                  <hi>Dr. Hammond, Charitative fraternall correption, is not any mans
+<pb n="17" facs="tcp:199749:10"/>peculiar province, or enclosure, but the engagement and duty of every Brother, or common Christian;</hi> this is one step to the worke, the other Testimonies will be full.</p>
+               <p>
+                  <hi>Dr. Sclater,</hi> speaking of edifying, <hi>it is true,</hi>
+                  <note place="margin">
+                     <hi>Exposition on</hi> 1 <hi>Thes.</hi> 5.11.</note>
+                  <hi>that in the manner of performing, something there is in all these, peculiar to Ministers. Thus conceive this mutuall edification to differ from that we call ministeriall. First the one is with Authority, the other out of sociall charity. Second<g ref="char:EOLhyphen"/>ly to do these things in the congregation is so peculiar to the Ministry, that he is guilty of usurping the honour of Aaron that intrudes upon it; yet in the Family and private conversation the duties belong to all.</hi>
+               </p>
+               <p>Presently after he comes with a question, which some would make, and then answers it.</p>
+               <p>Q. <hi>Forsooth every man shall beare his owne burthen, and whereto serve our Ministers?</hi>
+               </p>
+               <p>R. <hi>God hath laid this charge upon every mans Conscience,</hi>
+                  <note place="margin">
+                     <hi>Ezek.</hi> 18.30.</note>
+                  <hi>to ad<g ref="char:EOLhyphen"/>monish and exhort: the precept is not only to turne, but to cause others to turne, and the sins of others which thou art bound to hinder, by not hindring become thine. The duties in publike concerne the Ministers; but is it for nought that you are called a kingdome of Priests?</hi>
+                  <note place="margin">
+                     <hi>Rev.</hi> 1.6. 1 <hi>Iohn</hi> 2.20. <hi>Loc. com. of ad<g ref="char:EOLhyphen"/>monition.</hi>
+                  </note>
+                  <hi>and have all received an oyntment from the Father?</hi> To this which the Dr. hath said, I will add out of <hi>Trap,</hi> that <hi>this oyntment must smell all Gods house over.</hi>
+               </p>
+               <p>
+                  <hi>Rutherford</hi> drawes up <hi>Robinsons</hi> argument thus.
+<note place="margin">
+                     <hi>Due right of Presbyt. p.</hi> 33.</note>
+                  <hi>Those who are to watch, to knit together the Saints, to edifie them, have received the keyes and are governers, and Officers, but all the faithfull are to watch, to knit together the Saints.</hi> Ergo. <hi>First the Major is false, for if because the Saints may edifie, they shall have joynt power and use of the Keyes with the officers, they may administrate the Sacraments. Now because they may in a Christian way do some acts of edifying, it followeth not, that therefore they may do these acts by power of the keyes, and with an Ecclesiasticall and Church power, they may do the same duty,</hi> ergo, <hi>with the same power. A Scholler may teach his School fellow the same lesson, that his Master doth teach him,</hi> ergo, <hi>he may do it by the same magisteriall authority: a wife may cure a disease,</hi> ergo, <hi>she may by the same authority that a Dr. of Physick, approved by the in<g ref="char:EOLhyphen"/>corporation of Physitians, cure a disease, it followeth not.</hi>
+               </p>
+               <p>
+                  <hi>Dr. Field. An authenticall interpretation, which is not only true,</hi>
+                  <note place="margin">
+                     <hi>Of the Church l.</hi> 4. <hi>c.</hi> 16.</note>
+                  <hi>but so clearly and in such sort, that every one is bound, to imbrace and receive it: as before we made</hi> 3 <hi>kinds of judgment, one of discretion, com<g ref="char:EOLhyphen"/>mon
+<pb n="18" facs="tcp:199749:11"/>to all; the other of direction, common to the Pastors of the Church; and a third of Jurisdiction, proper to them that have supreme power in the Church: so likewise we make three kinds of interpretation, the first private; and so every one may interpret the Scriptures,</hi> (i.e.) <hi>private<g ref="char:EOLhyphen"/>ly with himselfe, conceive or deliver to other what he thinketh the mea<g ref="char:EOLhyphen"/>ning of it to be. The second of publike direction, and so the Pastors of the Church &amp;c.</hi>
+               </p>
+               <p>
+                  <hi>Mr.</hi>
+                  <note place="margin">
+                     <hi>Comment. on Ephes. c.</hi> 4.16.</note>
+                  <hi>Bayne. How this</hi> (speaking of edifying) <hi>can be a duty be<g ref="char:EOLhyphen"/>longing to private Christians, seeing they are the building, the Mini<g ref="char:EOLhyphen"/>sters of the word are the builders.</hi> Presently after he answers thus.</p>
+               <p>
+                  <hi>We must know, first, that God doth build this body: on this rock I build this Church. Secondly, the Ministers of God: I as a Mr. buil<g ref="char:EOLhyphen"/>der have laid the foundation, and others build thereupon. Thirdly, eve<g ref="char:EOLhyphen"/>ry private Christian hath a part in it. The difference is this, God doth put out all the efficacy and vertue that doth create this body, the Mini<g ref="char:EOLhyphen"/>sters are instruments publike, whom he hath joined to himselfe by ver<g ref="char:EOLhyphen"/>tue of publike callings, how shall they preach except they be sent? Eve<g ref="char:EOLhyphen"/>ry private Christian is an instrument privately doing that which the Minister doth in publike, by vertue of the bond of brotherhood, or some more near relation.</hi>
+               </p>
+               <p>
+                  <hi>Mr. Baxter</hi> speaking of the Assemblies larger Catechisme;</p>
+               <p>
+                  <hi>Where it is said the word of God is to be preached only by such as are sufficiently gifted,</hi>
+                  <note place="margin">
+                     <hi>Confession of his faith. p.</hi> 19.</note>
+                  <hi>and also duly approved and called to that office; I understād it only of that sort of preaching which is proper to Ministers, beleiving that there is also a Preaching, that a Master may use in his Familie, and other Christians occasionally: and herein I doubt not, but I hit their sense.</hi>
+               </p>
+               <p>And if so, then here are Authorities, and good Authorities in great abundance.</p>
+            </div>
+            <div n="3" type="chapter">
+               <head>CAP. 3. <hi>Containing an Answer to all the Objections, which are usually made a<g ref="char:EOLhyphen"/>gainst private mens interpretings.</hi>
+               </head>
+               <p>I come now to the objections, which are made against private mens interpretings.
+<note place="margin">Religion of Protest. preface to the Reader.</note> Some of them have been a thousand times answered already; as <hi>Chillingsworth</hi> saith of those which <hi>Dr. Pot<g ref="char:EOLhyphen"/>ter</hi> made and answered, yet they must be spoken to againe.</p>
+               <p>Ob. 1. These private men have not the languages, how then can they interpret.</p>
+               <pb n="19" facs="tcp:199749:11"/>
+               <p> R. To this I borrow an answer from <hi>Dr. Taylor.</hi>
+                  <note place="margin">
+                     <hi>Dr. Jer. Taylor. lib. pro. Sec.</hi> 4. <hi>num.</hi> 5.</note>
+                  <hi>Consulting the Originall, is thought a great matter to interpretation of Scriptures: but this is to small purpose, for indeed it will expound the Hebrew, and the Greeke, and rectifie translations; but I know no man that saies, that the Scriptures in Hebrew and Greeke, are easie and certain to be understood, and that they are hard in Latine and English: the difficul<g ref="char:EOLhyphen"/>tie is in the thing, however it be expressed, the least is in the language.</hi>
+               </p>
+               <p>Obj. 2. Private mens interpretings, leads them into errors; the Scriptures being too darke and obscure for them.</p>
+               <p>R. Upon this score indeed the Prophesies of the <hi>Sibills</hi> were locked up from the <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, the people.
+<note place="margin">Is. Causab. ib.</note>
+                  <hi>Causa hujus occultationis fuit, ne privati homines, &amp; factiosi, auctoritate Sibillarum freti, aut in patriis ceremoniis, aut in publicâ re aliquid novarent.</hi> And for the same reason, the Papists to this day wrapp the Scriptures up in an unknown tongue. And here I will call to mind the Answers which were once thought to be sound against the Papists.
+<note place="margin">
+                     <hi>The way to the true Church sect.</hi> 6. <hi>num.</hi> 11.</note>
+               </p>
+               <p>Dr. White. <hi>It is a common reproach laid upon our people, that they read the Scriptures in their houses, and the translations thereof be no<g ref="char:EOLhyphen"/>thing else but profanations of the Bible; and this gracelesse conceit, like blasphemous Atheists, they urge as rudelie, exclaiming withall, that this is a principall cause to increase heresies and such like: all which being compared with the practise of the Primitive and Apostolicall Church, you may freely judge how trulie the Jesuit saith afterward, his Romane Church never altered one point of Religion; for thus wri<g ref="char:EOLhyphen"/>teth Theodoret of his times. You shall every where see these points of our faith, to be knowne and understood, not onlie by such as are teachers in the Church, but even of Coblers, and Smiths, and Websters, and all kind of Artificers, yea all our women, not only they which are book learned, but they also which get their living by their needle, yea maidservāts and waiting womes, &amp; not citizens only, but busbandmen of the Country are very skilfull in these things, yea you may heare a<g ref="char:EOLhyphen"/>mongst us Ditchers and Neatheards and Woodsetters discoursing of the Trinity and the Creation: the like is reported by others, and what marvaile? for the Laity was accustomed to the text of the Bible as well as the learned, young Children and women as well as others; and &amp; his doctrine that was Presidēt in the Trent Cōspiracy, that a distaffe was fitter for women then a Bible was not yet hatched. Nectarius of a Judge, was made Bishop of Constantinople, and Ambrose of a Deputy, Bishop of Millan, Gregory the Father of Nazianzen and Thalaessi<g ref="char:EOLhyphen"/>us
+<pb n="20" facs="tcp:199749:12"/>Bishop of Caesarea, of Laymen were made Bishops; which shews how diligent Laymen were in the word of God, that they could be able to sustaine the office of a Bishop. Origen from his Childhood was taught the Scriptures, and gat them without booke, and questioned with his father Leonides an holy Martyr, who rejoiced in it, about the difficult senses thereof. So Macrina, Basils nurse, taught him the Scriptures of a Child, after the example of Timothy: and Emesenus from his Infan<g ref="char:EOLhyphen"/>cy was used to the word of God: manie Laymen among whom was the fa<g ref="char:EOLhyphen"/>mous Paphnutius, being very learned, came to the Nicene Councell. Gorgonia the Sister of Nazianzen was well learned. Hierome writes of Paula a Gentlewoman, how she set her maids to learne the Scrip<g ref="char:EOLhyphen"/>tures, and many of his writings are directed to women, commending their labour in the Scriptures, and encouraging them thereto, as to Paula, Eustochium, Salvina, Celantia &amp;c. which he would not have done, if he had been a Papist. It was the reproach that Julian the A<g ref="char:EOLhyphen"/>postate laied upon the Christians, that their women were medlers with the Scriptures; and from him the Papists have borrowed it: but the Apostles counsell is rather to be followed, let the word of God dwell in you plentifully, in all wisdome teaching and admonishing your selves; upon which place saith Hierome; hence we see that Laymen must have the knowledge of the Scriptures, and teach one another not only suffici<g ref="char:EOLhyphen"/>ently but also abundantly.</hi>
+               </p>
+               <p>Dr.
+<note place="margin">Preface to the N. Testament against the Rhem.</note> Fulke. <hi>With reverence of Gods mysteries, and to that end they were given, every man might not only without reprehension, but with good liking and commendation of the godly Fathers: read, reason, dis<g ref="char:EOLhyphen"/>pute and search, which is to turne and tosse the bookes of the Scriptures.</hi>
+               </p>
+               <p>Bishop Davenant.
+<note place="margin">
+                     <hi>In Col</hi> 3.16.</note>
+                  <hi>Si hoc genus argumenti valeret, Deus, Christus, &amp; Apostoli peccârunt, qui promulgari voluerunt verbum Dei promis<g ref="char:EOLhyphen"/>cuè omnibus; non obstante hoc, quod multi eodem abutebantur ad suam perniciem.</hi> 2 <hi>Pet.</hi> 3.16. <hi>Praeterea, esset hanc ob causam Clericis aequè ac Laicis neganda lectio Scripturarum; nam &amp; illi saepenumerō pessi<g ref="char:EOLhyphen"/>mè abutuntur Scripturis. Quis enim nescit, omnes ferè haereses ab Episcopis, Presbyteris aut Monachis fluxisse, non à Laicis &amp; Sae<g ref="char:EOLhyphen"/>cularibus. Testimonia ferè tot habemus, quot haereticorum nomina.</hi>
+               </p>
+               <p n="2">2. Many private men of good heads and honest hearts, by their paines and industry, though unlearned, attaine to great knowledge in the Scriptures; insomuch that wicked men are hardly able to withstand the power, by which they speake, but that their consci<g ref="char:EOLhyphen"/>ences are relieved with the common report, that such a man is
+<pb n="21" facs="tcp:199749:12"/>a Tub-preacher, and it matters not what he saith. I desire the Reader,
+<note place="margin">
+                     <hi>Discourse concerning the gift of prayer. p.</hi> 26.</note> who ever he be, to consider of what <hi>Dr. Wilkins</hi> hath concerning prayer, and then let him tell me whether much of it might not be said concerning interpreting.</p>
+               <p>
+                  <hi>Those things that we learne for practise, we learne by practise, saith the Philosopher; and that is one reason why many ignorant men do sometimes in this gift excell those that are much more eminent for Learning and Kno<g ref="char:EOLhyphen"/>ledge; because though these do better understand the rules and theory, yet the other do practise more, and by that meanes attaine to a greater readi<g ref="char:EOLhyphen"/>nesse and facility in this gift; and this likewise is the reason, why in these latter times, divers men have attained to a greater preheminence this way, then was usuall heretofore, because formerly this kind of study and indea<g ref="char:EOLhyphen"/>vour was lesse in use. Men did generally confine themselves to particular formes, &amp; did not make it their businesse to improve in this ability. Againe;</hi>
+                  <note place="margin">
+                     <hi>p.</hi> 12.</note>
+                  <hi>And if it be a fault not to strive and labour after this gift, much more is it to jeer &amp; despise it, by the name of</hi> ex tempore <hi>prayer, and praying by the spirit; which expressions, as they are frequently used by some men by way of reproach, are for the most part a signe of a prophane heart, and such as are altogether strangers from the power and comfort of this duty.</hi>
+               </p>
+               <p n="3">3. What if some of those private Christians cannot deliver their minds so readily and gracefully as might be wished? shall all of them be despised? and may not those weaklings, in time grow up to some perfection?
+<note n="*" place="margin">
+                     <hi>Curia praetexto quae nunc ni et alta senatu, Pellitos habuit rustica cor<g ref="char:EOLhyphen"/>da patres. Lactant. Instit. l.</hi> 2. <hi>c.</hi> 7.</note> are we sure that God who knoweth the mind of the spirit, may not owne their labour of love and their freewill offering? <hi>Pliny. Animadverto etiam Deos ipsos non tam accuratis adorantium precibus, quam innocentiâ &amp; sanctitate laetari, gratiorem{que} existimari, qui delu<g ref="char:EOLhyphen"/>bris eorum puram castám{que} mentem, quam qui meditatum carmen intulerit.</hi> The English of it I find in Mr. Baxter. <hi>This is the unhappy case of many men of learning, and good parts, they are so sensible of the evill of the exor<g ref="char:EOLhyphen"/>bitancy of the times, that they overlooke and regard not the evill of their owne heartlesse and unfaithfull administration.</hi>
+                  <note place="margin">Panegyr. Trajan.</note>
+                  <hi>If they heare a private man use some unfit expressions in prayer, it extreamly offendeth them, but if they totally omit it, they are not much offended at it:</hi>
+                  <note place="margin">Preface to Confession of faith.</note>
+                  <hi>they forget that God will beare more with many slips of the tongue, and unhandsome words, then with the neglect of his worship, or a heartlesse performance of it, and that their well dressed forms if livelesse, are stinking carcasses, and uselesse pi<g ref="char:EOLhyphen"/>ctures, when a broken heart with broken expressions, may go away with the blessing: and therefore they are commonly against private mens praying to<g ref="char:EOLhyphen"/>gether, especially before many, and as the Papists would drive them from
+<pb n="22" facs="tcp:199749:13"/>the Scripture, for feare of abusing it, so would they drive them from such prayer, least they should hap to use some unhandsome words.</hi>
+               </p>
+               <p n="4">4. What if these men should not give the proper meaning of those texts they pretend to interpret? their discourse may be justifiable from other places of Gods word, and very edifying notwithstanding. I do not looke upon such a misinterpretation, as false doctrine, no more then I take that to be false Latine, when one pointing with his finger to the earth, cryed out, <hi>O Coelum!</hi>
+               </p>
+               <p>
+                  <hi>Dr. White. Though the proper interpretation be some time mistaken, yet the truth is not alwaies thereby obscured:</hi>
+                  <note place="margin">
+                     <hi>Ib. p.</hi> 20.</note>
+                  <hi>for heare what Austin saith, he errs not perniciously, neither doth he altogether say untruly, who some<g ref="char:EOLhyphen"/>time expoundeth otherwise then the text meaneth, if so his exposition fur<g ref="char:EOLhyphen"/>ther charity, the end of the commandement. He is indeed deceived, but yet so, as when a man loosing his way through a by-field, cometh whither the way leadeth: his meaning is, that in many cases wrong expositions hinder not the determinate and plaine judgment of the text.</hi>
+               </p>
+               <p n="5">5. Was there never any good done by these private men? did Christ never shew himselfe present with them? <hi>Erasmus</hi> thought the blessing of God would attend the indeavoures of sincere private Christians. <hi>Ego verò puto vel nautis esse fas &amp;c.</hi>
+                  <note place="margin">Relig. Con<g ref="char:EOLhyphen"/>viv.</note>
+                  <hi>fortasse &amp; Christus qui pollicitus erat sese adfuturum, ubicun{que} duo convenirent, de ipso tractantes, aspira<g ref="char:EOLhyphen"/>bit nobis tam multis.</hi>
+               </p>
+               <p>Must we slight the great things God wrought by <hi>Aedesius</hi> and <hi>Fru<g ref="char:EOLhyphen"/>mentius</hi> among the <hi>Indians,</hi>
+                  <note place="margin">
+                     <hi>Socrates Eccles hist. l.</hi> 1. <hi>c.</hi> 15. <hi>Hist. Eccl. l.</hi> 1. <hi>c.</hi> 10.</note> that we may <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, serve an Interest? or passe by unthankfully that which is reported by <hi>Ruffinus</hi> of the captive woman, that converted the <hi>Iberians?</hi>
+               </p>
+               <p>Doe we not find in <hi>Theodoret,</hi> that a Priests Son was gained by a godly woman,
+<note place="margin">
+                     <hi>Eccles. hist. l.</hi> 3. <hi>c.</hi> 14.</note> and that the Son did afterward turne his Father from Idolatry, when <hi>Julian</hi> was dead?</p>
+               <p>Were not women appointed by a Councell to fit the more ignorant of their owne sex for Baptisme,
+<note place="margin">
+                     <hi>Caranza. Con Carth.</hi> 4. <hi>can.</hi> 12.</note> and to teach them how they should live afterwards?</p>
+               <p>Did not the Bishop of <hi>Caesarea</hi> &amp; <hi>Hierusalem</hi> justifie the preaching of <hi>Origen</hi> before his ordination by good authorities,
+<note place="margin">
+                     <hi>Euseb. Ee<g ref="char:EOLhyphen"/>cles. hist.</hi> 6. <hi>c.</hi> 19.</note> when they urged severall examples of godly Brethren, who were exhorted by learned men, and holy Bishops to preach, adding withall that twas no unusu<g ref="char:EOLhyphen"/>all custome in other parts? or shall we say that these godly Brethren did not good but rather hurt? Much might be said of this nature from the <hi>Waldenses,</hi> &amp; <hi>Albigenses,</hi> of our own times. But I will passe to another
+<pb n="23" facs="tcp:199749:13"/>objection, desiring those whom it concerns, to deliberate, whether or no the miscarriages of private meetings might not be prevented, if that time were spent in overseeing them, which is spent in railing against them.</p>
+               <p>Ob. 3. Taken from the Scriptures, 2 <hi>Pet.</hi> 1.20. <hi>no Prophesie of the Scrip<g ref="char:EOLhyphen"/>ture is of any private interpretation.</hi> 1 <hi>Cor.</hi> 12.30. <hi>do all interpret?</hi>
+               </p>
+               <p>R. 1. To that in the 2 <hi>Pet.</hi> 1.20. it shall be answered by opening the text: in which 3 things may be considered.</p>
+               <p n="1">1. What is meant by interpretation.</p>
+               <p>R. The word in the Originall comes from <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>,
+<note place="margin">Cameron myro. Evan. in loc.</note> which signifies as it is used by the Septuagint, <hi>abscondita &amp; occulta interpretari.</hi> To in<g ref="char:EOLhyphen"/>terpret what was crypticall and darke, the understanding whereof a man attaineth not unto, no more then <hi>Ioseph</hi> could to the sense of the dreames, without speciall and extraordinary light from God. Hence the Prophets, by whom God gave the Scriptures, are said to be <hi>inter<g ref="char:EOLhyphen"/>pretes divinae voluntatis,</hi> to be interpreters of Gods will, making those things manifest, which were occult before; and hence also these Pro<g ref="char:EOLhyphen"/>phets are called by the <hi>Ancients</hi>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, (i.e.) men acted,
+<note place="margin">
+                     <hi>Heinsi<gap reason="illegible: blotted" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap> in v.</hi> 21.</note> carried out of themselves, to say and do what God would have them; so that their interpretation of Gods will, was an <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, a revelation, an inspiration; <hi>Prophetarum oracula non esse bumana commenta, sed divina mandata.</hi> (i.e.) The Prophets writings of the old Testament, were not the <hi>figmenta,</hi> the inventions of their owne heads, but the commands of God.</p>
+               <p n="2">2. What by <hi>private?</hi>
+               </p>
+               <p>R. <hi>Private,</hi> 1. is not here opposed to the interpretation of the Church, which the Papists talke of. Nor 2. to the interpretation of men that are ordained and in office. But 3. by private interpretation is meant that which is humane and from man, in opposition to that which is from God. So that here is nothing at all directly spoken concerning the interpretation of the Scriptures, when men <hi>heare them or read them:</hi> and for ought I know, the interpretation of the most learned Dr. when tis erroneous; may be called a private interpretation; when the inter<g ref="char:EOLhyphen"/>pretation of the meanest private Christian being sound and wholsome, must be call'd by a better name. In one word, by private interpretati<g ref="char:EOLhyphen"/>on is meant humane interpretation: the Scripture is not from man, but from God. I might give many authorities of learned men for this exposition which I have made, cheifly out of <hi>Cameron;</hi>
+                  <note place="margin">Annot. ma. in loc.</note> but I will satis<g ref="char:EOLhyphen"/>fy my selfe with <hi>Beza, nec enim propriam interpretationem, opponunt
+<pb n="24" facs="tcp:199749:14"/>communi, scil. publicae, sed adventitium Spiritûs sancti donum, ei solertiae, vel illi ingenii vigori, qui sit à natura hominibus quantumvis inge<g ref="char:EOLhyphen"/>niosis insitus.</hi>
+                  <note place="margin">
+                     <hi>Exercit. in N.T. in loc.</hi> 2 <hi>Pet.</hi> 1.21.</note> And Hensius; <hi>non enim</hi>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, <hi>sive proprio instin<g ref="char:EOLhyphen"/>ctu, qui</hi>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, <hi>(h. e.) soleni sancti Spiritûs instinctu, ut</hi>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+                  <hi>locuti sunt.</hi>
+               </p>
+               <p n="2">2. Tis answered to that in 1 <hi>Cor.</hi> 12.30. <hi>do all speake with tongues, do all interpret?</hi>
+               </p>
+               <p n="1">1. The Apostle speaks of extraordinary gifts.</p>
+               <p n="2">2. Not confined to men in office, but given also to private Christi<g ref="char:EOLhyphen"/>ans as God pleased.</p>
+               <p n="3">3.
+<note place="margin">
+                     <hi>Cameron ib. in</hi> 1 <hi>Cor.</hi> 12.10.</note> That he spake not of the interpretation of Scripture, as our con<g ref="char:EOLhyphen"/>troversie intends, but of tongues.</p>
+               <p n="4">4. That many times one had the gift of tongues, that had not the gift of interpretation, and therefore <hi>cap.</hi> 14. <hi>v.</hi> 13. he was to pray that he might interpret.</p>
+               <p n="5">5. That to some men God gave the gift of interpreting the things delivered by those that had the gift of tongues, and which did increase the miracle, as <hi>Cameron</hi> observes, they could interpret the tongues, they could not speake in. Now judge (Reader) whether these texts, thus, and rightly, understood, are more to the purpose, then if a man should have undertaken to have proved it unlawfull, for private men to in<g ref="char:EOLhyphen"/>terpret by that text, <hi>Math.</hi> 1. <hi>v.</hi> 2. <hi>Abraham begat Isaak, and Isaak be<g ref="char:EOLhyphen"/>gat Jacob; Ergo</hi> tis not lawfull &amp;c.</p>
+               <p>Ob. 4. This meeting &amp;c, is a gathering a Congregation or Church.</p>
+               <p>R. 1. I cannot conceive this objection to be made, by men of the In<g ref="char:EOLhyphen"/>dependent judgment, because they allow private Christians the liber<g ref="char:EOLhyphen"/>ty here contended for, and also insist upon a Church covenant,</p>
+               <p n="2">2. Neither will I beleive that any sober men of the Episcopall or Presbyterial perswasion will owne it; because I never yet observed them to say, that a Church was not an Organicall body, consisting of diverse members, as eyes, eares, feet, &amp;c. of some governing, and others governed. 1 <hi>Cor.</hi> 12.14, 15. <hi>Rom.</hi> 12.4-6. <hi>Act.</hi> 20.28. or that deare affection, or cohabitation and living together, or that meeting in one Assembly make a Church, and therefore I will passe it, till I have more. I have not heard that any thing hath been said by way of obje<g ref="char:EOLhyphen"/>ction, but what I have here laid downe, although it being so easy a thinge to sit at home and find fault, tis likely more may be said: but let men take heed, they do not envy the grace of God to some, whose errors they pretend to feare, and become Patrons of ignorance,
+<pb n="25" facs="tcp:199749:14"/>whiles they would be thought to dispute against faction; in due time God may open our eyes to see, and bleedingly to lament the unhappi<g ref="char:EOLhyphen"/>nesse of our generation: we have been so long debating whether pri<g ref="char:EOLhyphen"/>vate Christians may read the word and interpret it, that we may tru<g ref="char:EOLhyphen"/>ly say with <hi>Chrysostome,</hi> there are many do not know,
+<note place="margin">
+                     <hi>Comment. in Heb.</hi> 5.</note> whether there be any word of God, or no. <hi>Et tamen post tanta, sunt quidam, quine{que} sciunt an sint Scripturae.</hi>
+               </p>
+            </div>
+            <div n="4" type="chapter">
+               <head>CAP. 4. <hi>Containing an exhortation to these private Christians with some Cautions.</hi>
+               </head>
+               <p>HEre now a man might wish, with <hi>Erasmus,</hi>
+                  <note place="margin">Paracl. ad Christi philos. stu<g ref="char:EOLhyphen"/>dium.</note> for the inclosure of all the Eloquence in the world to perswade men, but as he corrects himselfe, tis better to importune the assistance of Christ, who can with<g ref="char:EOLhyphen"/>out the <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, <hi>lenocinia,</hi> and ornaments of Rhetorick, give strength to prevaile with those I have now to do with. To you therefore,
+<note place="margin">
+                     <hi>Plin. ep. lib</hi> 1. <hi>ep.</hi> 2.</note> whose hearts God hath drawne forth to help your poor Brethren towards Heaven; to you I say, go on and prosper: you see your commission is good, your warrant is from God, you may, you ought upon occasi<g ref="char:EOLhyphen"/>on to teach on another: come then arise, arise, gird up your loynes, be not ashamed of the Gospell of Christ, tis the power of God unto salvation. What though men revile you, and speak all manner of e<g ref="char:EOLhyphen"/>vill of you, accounting you the <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> and <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, the filth of the world, and the off-scouring of all things? Say with your selves, we are no better then our fathers, the servant is not better then his Lord, this is not resisting unto blood, this is nothing to what Iesus Christ suffered for us. O keep your eyes fixed upon the recompence of reward, and let your heart bleed for the scoffing <hi>Ishmaells,</hi> that will neither enter into the Kingdome of Heaven themselves, nor suffer those that would; but like the Swine in the Gospell, run from Christ into the Sea of perdition. When you heare men cry out against your meetings as uselesse, groundlesse and seditious, then pitty them, pray for them, bearing in mind, that Spirituall things are Spiritually discer<g ref="char:EOLhyphen"/>ned, and that these men are in the condition of <hi>Harpaste</hi> in <hi>Seneca,</hi> who having suddenly lost her eyesight, complained the house was dark. These men usually have an Altar, they do sacrifice,
+<note place="margin">
+                     <hi>Epist</hi> 50. <hi>baec fatua subitò defiit videre — ait domum te<g ref="char:EOLhyphen"/>nebrosam.</hi>
+                  </note> but tis <hi>igno<g ref="char:EOLhyphen"/>to Deo,</hi> to the unknown God, &amp; like the <hi>Sodomites,</hi> are groping after the door of Heaven, and very hardly find it. Like the Vintner in the Gospell, have at first their best wine, and at last what is worse: though
+<pb n="26" facs="tcp:199749:15"/>their head be of Gold,
+<note place="margin">
+                     <hi>Eccles.</hi> 12. <hi>v.</hi> 1.</note> yet their feet will be of clay; still worse and worse, till the dayes draw nigh, when they shall say, we have no plea<g ref="char:EOLhyphen"/>sure in them: O good it had been for them, they had never been borne.</p>
+               <p>To quicken you to your worke, consider, 1. tis an excellent meanes to profit by the publike Ordinance, to meet often in private, to conferr upon the Scriptures, that ye may be able to understand the Minister in his Doctrines and Uses. The Lord pardon our Nation, the language of the Gospell to some is an unknown tongue, and the preaching of it is as sounding brasse, and a tinkling Cymball; because Christians will not teach and admonish one another, that the word of Christ may indwell in them. To others tis more familiar and welcome for a time, but this holy fire soon goes out for want of fuell. Who among us al<g ref="char:EOLhyphen"/>most doth not weave <hi>Penelopes</hi> web, <hi>ipsa texuit &amp; retexuit,</hi> what she did weave in the day, she did undoe in the night? Do not we learn and unlearn? what we learn on the Lords day, we forget on the wor<g ref="char:EOLhyphen"/>king day; so that we may say of our coming to Church, as <hi>Peter</hi> of his fishing, <hi>Master, we have travelled all day, and have taken nothing.</hi>
+               </p>
+               <p n="2">2. You are bound to take the care of one another: doth the Lord commend to us the care of our enimies bodies, names, straying Oxe? doth God take care for Oxen? will ye have no bowells nor compassi<g ref="char:EOLhyphen"/>on towards Souls, your friends Soules, your deare friends Souls, nay your owne Souls? was it not rude, bloody and profane <hi>Cain,</hi> that said, am I my Brothers keeper? hath the Devill his agents? are there many Factors for Hell? many <hi>Herods</hi> that watch for the babes of <hi>Bethlehem?</hi> And will not you that are members of the same body, set by God as guardians one of another, <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, quicken one another, and provoke unto love and good works? O indeavour to wash your hands, to dis<g ref="char:EOLhyphen"/>charge your owne Souls, and let not your Brothers blood lie upon you.</p>
+               <p n="3">3.
+<note place="margin">
+                     <hi>Mant. in Jam.</hi> 5.19.20.</note> What an honour is it for you to be <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, coworkers with God? is it not a great favour that God should make use of earthen vessells, and cast the glory of his owne free grace upon your labours? <hi>Your pound gaines ten pound, nay ye gaine a brother. Mat.</hi> 18.15. <hi>Jam.</hi> 5.19, 20. <hi>Brethren, if any of you do erre from the truth, and one convert him, let him know, that he which converteth a sinner from the error of his way, shall save a Soule from death, and shall hide a multitude of sins.</hi> Oh how happy will you be ere long? twill be a blessed day, when Christ shall appeare, when Ministers shall walke into heaven with their flocks, and you also with your Converts, shining like the Sun in his glory.</p>
+               <pb n="27" facs="tcp:199749:15"/>
+               <p> And here let me advise you to take heed.</p>
+               <p n="1">1. That ye despise not those that are set over you in the Lord, but honour them for their worke sake, suffer not one duty to crowd out another; as ye are bound to instruct others, so to heare them; remem<g ref="char:EOLhyphen"/>ber the judgment of God upon <hi>Corah</hi> and his company, their Censer was kept by Gods speciall appointment, as a memoriall and warning to all posteritie. <hi>Numb.</hi> 16.40. By whom did God call ye? by whom did God at first espouse you to Christ? was it not by the publike Mini<g ref="char:EOLhyphen"/>strie? and must that now be despised? I hope better things from you. Is not this the way wherein Christ is wont to walke and heale? Surely this Ordināce is the golden pipe through which he conveighs grace to the Soule. Stand in the Sun and ye shall grow warme. Walke in the garden of Roses, and ye will be perfumed with pleasant odours. Con<g ref="char:EOLhyphen"/>sider what <hi>Abraham</hi> said to him in Hell, <hi>Luk.</hi> 16.29. <hi>If thy five Bre<g ref="char:EOLhyphen"/>thren would not come, where you are, they have Moses and the Prophets, audiant ipsos, let them heare them.</hi> In one houre ye may have the fruit of many dayes study: the Ministers gather <hi>Manna</hi> seed by seed, but they deliver it out by <hi>Omers</hi> and <hi>Epha's</hi> too. If ever your labour of love, turne to a labour of pride; if ever ye come to despise Gods Or<g ref="char:EOLhyphen"/>dinance, know assuredly that God will blast all your indeavours.</p>
+               <p n="2">2. That ye omit not to advise with some Godly and able Minister, especially in the first setting up of your Meetings,
+<note place="margin">
+                     <hi>Quod si ul<g ref="char:EOLhyphen"/>lum unquā animal con<g ref="char:EOLhyphen"/>secrandum fuit, illud profecto fu<g ref="char:EOLhyphen"/>it. Cicero of his Child, in Lactant. l. c.</hi> 15.</note> he can better judge of your abilities then your selves. Parents are fond of their owne Children, we are too apt to delight in and admire the issue of our owne braines: to gaze upon our fine feathers, and forget our foule feet.</p>
+               <p n="3">3. Be carefull in all your doubts to apply your selves to those, whose lips are to preserve knowldge; inquire of them, what is the mind of the Lord.</p>
+               <p n="4">4. Meddle not with those places of Scripture which are darke and obscure, some places are <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, hard to be understood. 2 <hi>Pet.</hi> 3.16. But observe the advice of the Psalmist, <hi>tell what God hath done for your Soules;</hi> let the worke of grace upon your owne hearts be a frequent text, thence interpret, and unfold the great mysteries of Gods deare love, fetching the best and most edifying proofs out of your owne bosomes:
+<note place="margin">
+                     <hi>Aul. Gelli<g ref="char:EOLhyphen"/>us. l.</hi> 20. <hi>c.</hi> 5.</note> and when ye observe failings among your selves or others, choose those places of Scripture, which are most pertinent to your occasions.</p>
+               <p n="5">5. Carry all things with humility and meeknesse, let no man affect
+<pb n="28" facs="tcp:199749:16"/>the preheminence, preferring one another in love, sometimes heare, sometimes interpret, doing all things in order, decency, and to edifi<g ref="char:EOLhyphen"/>cation, that your good may not be evill spoken of.</p>
+               <p n="6">6. See that ye do not only <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, but also <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, walke the word aright,
+<note place="margin">
+                     <hi>Act.</hi> 6.15.</note> as well as divide the word aright, let your discourse, your habit, your life be serious, that others may find as much holi<g ref="char:EOLhyphen"/>nesse in your conversations, as in your exhortations, that your presence may check sin, your faces shine as Angells, and your companie become terrible to impenitent sinners, that your greatest enemies may reve<g ref="char:EOLhyphen"/>rence you and be afraid to hurt you, as the barbarous <hi>Gaule</hi> was of <hi>Marius,</hi>
+                  <note place="margin">Plut in vit. Mar.</note> though hired to kill him. You must be as starrs to lead to Christ, your lights must shine before others, ye are the looking glasse, others will dresse themselves by you: twas a sore complaint of <hi>Sene<g ref="char:EOLhyphen"/>ca</hi> of the Philosophers, <hi>boni esse desierunt, simul ac docti evaserint,</hi> the more learned, the lesse morall: as if the waters of the Sanctuarie had put out the fire of the Sanctuarie. Take heed while ye exhort others, ye your selves become not Castawaies; take heed that whilst ye are building an Arke for others, ye your selves do not perish. Twas so once, let it not be so againe, but let your knowledg be incarnate in your practise: twill appeare at the last daie, that one apple from the tree of good life, is better then ten from the tree of Knowledg.</p>
+               <p>
+                  <hi>And now, O Lord, forgive all those, that speake evill of thy wayes; that grieve the hearts and weaken the hands of thy poor Servants, that are willing to build up one another in knowledge &amp; holynesse. Even so Lord Je<g ref="char:EOLhyphen"/>sus, Amen.</hi>
+               </p>
+               <trailer>FINIS.</trailer>
+               <pb facs="tcp:199749:16"/>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
